@@ -1,4 +1,4 @@
-# gradereport
+# vue-gradereport
 
 ## Project setup
 ```
